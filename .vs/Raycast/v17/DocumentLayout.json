@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rory\\source\\repos\\Raycast\\Raycaster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC935205-8298-435B-8F53-9081F212BFC9}|Raycast\\Raycast.vcxproj|C:\\Users\\Rory\\source\\repos\\Raycast\\Raycaster\\Raycast\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC935205-8298-435B-8F53-9081F212BFC9}|Raycast\\Raycast.vcxproj|solutionrelative:Raycast\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC935205-8298-435B-8F53-9081F212BFC9}|Raycast\\Raycast.vcxproj|C:\\Users\\Rory\\source\\repos\\Raycast\\Raycaster\\Raycast\\map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC935205-8298-435B-8F53-9081F212BFC9}|Raycast\\Raycast.vcxproj|solutionrelative:Raycast\\map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "map.cpp",
+              "DocumentMoniker": "C:\\Users\\Rory\\source\\repos\\Raycast\\Raycaster\\Raycast\\map.cpp",
+              "RelativeDocumentMoniker": "Raycast\\map.cpp",
+              "ToolTip": "C:\\Users\\Rory\\source\\repos\\Raycast\\Raycaster\\Raycast\\map.cpp",
+              "RelativeToolTip": "Raycast\\map.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T00:08:40.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Rory\\source\\repos\\Raycast\\Raycaster\\Raycast\\Main.cpp",
+              "RelativeDocumentMoniker": "Raycast\\Main.cpp",
+              "ToolTip": "C:\\Users\\Rory\\source\\repos\\Raycast\\Raycaster\\Raycast\\Main.cpp",
+              "RelativeToolTip": "Raycast\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T00:08:39.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
