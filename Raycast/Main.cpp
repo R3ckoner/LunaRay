@@ -3,7 +3,7 @@
 
 #include "Map.h"
 #include "player.h"
-
+#include "renderer.h"
 
 int main()
 {
@@ -29,6 +29,8 @@ int main()
     Player player;
 	player.position =  sf::Vector2f(50, 50);
 
+    Renderer renderer;
+
     sf::Clock gameClock;
     
 
@@ -43,6 +45,7 @@ int main()
 
         window.clear();
 		map.draw(window);
+		renderer.drawRays(window, player, map);
 		player.draw(window);
         window.display();
     }

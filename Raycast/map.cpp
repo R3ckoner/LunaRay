@@ -1,6 +1,8 @@
 ﻿#include "Map.h"
 #include <SFML/Graphics.hpp>
 #include <SFML/System.hpp>
+#include <vector>
+#include <cstddef>
 
 Map::Map(float cellSize, int width, int height) : cellSize(cellSize), grid(height, std::vector(width, 0)) {
 }
@@ -24,7 +26,7 @@ void Map::draw(sf::RenderTarget& target) {
 	for (size_t y = 0; y < grid.size(); y++) {
 		for (size_t x = 0; x < grid[y].size(); x++) {
 			if (grid[y][x] == 0) {
-				cell.setFillColor(sf::Color::Black);
+				cell.setFillColor(sf::Color(70, 70, 70));
 			}
 			else if (grid[y][x] == 1) {
 				cell.setFillColor(sf::Color::White);
@@ -36,3 +38,6 @@ void Map::draw(sf::RenderTarget& target) {
 		}
 	}
 }
+
+const std::vector<std::vector<int>>& Map::getGrid() const { return grid; }
+float Map::getCellSize() const { return cellSize; }

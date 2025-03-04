@@ -9,7 +9,7 @@ public:
 	void update(float dt);	
 
 	sf::Vector2f position;
-	float angle;
+	sf::Angle angle = sf::degrees(0);
 };
 #endif
 
