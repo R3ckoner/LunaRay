@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Raycast\\renderer.cpp",
               "ToolTip": "C:\\Users\\Rory\\source\\repos\\Raycast\\Raycaster\\Raycast\\renderer.cpp",
               "RelativeToolTip": "Raycast\\renderer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-03T23:33:05.012Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "Raycast\\renderer.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-03T23:32:06.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T23:32:06.255Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Raycast\\player.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-01T03:59:10.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T03:59:10.804Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "Raycast\\Main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-01T00:08:39.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T00:08:39.14Z"
             }
           ]
         },
@@ -108,8 +105,7 @@
               "RelativeToolTip": "Raycast\\map.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-01T00:08:40.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T00:08:40.546Z"
             },
             {
               "$type": "Document",
@@ -119,7 +115,7 @@
               "RelativeDocumentMoniker": "Raycast\\Map.h",
               "ToolTip": "C:\\Users\\Rory\\source\\repos\\Raycast\\Raycaster\\Raycast\\Map.h",
               "RelativeToolTip": "Raycast\\Map.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-01T00:13:35.008Z",
               "EditorCaption": ""
@@ -134,8 +130,7 @@
               "RelativeToolTip": "Raycast\\player.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-01T03:58:43.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T03:58:43.428Z"
             }
           ]
         }

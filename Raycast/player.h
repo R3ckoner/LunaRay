@@ -5,11 +5,12 @@
 
 class Player {
 public:
+	Player();
 	void draw(sf::RenderTarget& target);
 	void update(float dt);	
 
 	sf::Vector2f position;
-	sf::Angle angle = sf::degrees(0);
+	sf::Angle angle;
 };
 #endif
 
