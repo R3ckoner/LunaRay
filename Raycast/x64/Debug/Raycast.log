@@ -6,4 +6,7 @@ C:\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-i
       C:\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
       see declaration of 'sf::Exception'
   
+C:\Users\Rory\source\repos\Raycast\Raycaster\Raycast\renderer.cpp(50,64): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\Rory\source\repos\Raycast\Raycaster\Raycast\renderer.cpp(50,51): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\Rory\source\repos\Raycast\Raycaster\Raycast\renderer.cpp(50,38): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
   Raycast.vcxproj -> C:\Users\Rory\source\repos\Raycast\Raycaster\x64\Debug\Raycast.exe
