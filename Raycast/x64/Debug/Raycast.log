@@ -1,4 +1,12 @@
-﻿  renderer.cpp
+﻿  player.cpp
+C:\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'player.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  renderer.cpp
 C:\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
   (compiling source file 'renderer.cpp')
       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
@@ -6,7 +14,8 @@ C:\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-i
       C:\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
       see declaration of 'sf::Exception'
   
-C:\Users\Rory\source\repos\Raycast\Raycaster\Raycast\renderer.cpp(50,64): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
-C:\Users\Rory\source\repos\Raycast\Raycaster\Raycast\renderer.cpp(50,51): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
-C:\Users\Rory\source\repos\Raycast\Raycaster\Raycast\renderer.cpp(50,38): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\Rory\source\repos\Raycast\Raycaster\Raycast\renderer.cpp(67,73): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\Rory\source\repos\Raycast\Raycaster\Raycast\renderer.cpp(67,60): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\Rory\source\repos\Raycast\Raycaster\Raycast\renderer.cpp(67,47): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+  Generating Code...
   Raycast.vcxproj -> C:\Users\Rory\source\repos\Raycast\Raycaster\x64\Debug\Raycast.exe

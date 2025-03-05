@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{BC935205-8298-435B-8F53-9081F212BFC9}|Raycast\\Raycast.vcxproj|solutionrelative:Raycast\\renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BC935205-8298-435B-8F53-9081F212BFC9}|Raycast\\Raycast.vcxproj|C:\\Users\\Rory\\source\\repos\\Raycast\\Raycaster\\Raycast\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC935205-8298-435B-8F53-9081F212BFC9}|Raycast\\Raycast.vcxproj|solutionrelative:Raycast\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BC935205-8298-435B-8F53-9081F212BFC9}|Raycast\\Raycast.vcxproj|C:\\Users\\Rory\\source\\repos\\Raycast\\Raycaster\\Raycast\\renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BC935205-8298-435B-8F53-9081F212BFC9}|Raycast\\Raycast.vcxproj|solutionrelative:Raycast\\renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BC935205-8298-435B-8F53-9081F212BFC9}|Raycast\\Raycast.vcxproj|C:\\Users\\Rory\\source\\repos\\Raycast\\Raycaster\\Raycast\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BC935205-8298-435B-8F53-9081F212BFC9}|Raycast\\Raycast.vcxproj|solutionrelative:Raycast\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC935205-8298-435B-8F53-9081F212BFC9}|Raycast\\Raycast.vcxproj|C:\\Users\\Rory\\source\\repos\\Raycast\\Raycaster\\Raycast\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BC935205-8298-435B-8F53-9081F212BFC9}|Raycast\\Raycast.vcxproj|solutionrelative:Raycast\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC935205-8298-435B-8F53-9081F212BFC9}|Raycast\\Raycast.vcxproj|C:\\Users\\Rory\\source\\repos\\Raycast\\Raycaster\\Raycast\\map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -48,14 +48,14 @@
               "RelativeDocumentMoniker": "Raycast\\renderer.cpp",
               "ToolTip": "C:\\Users\\Rory\\source\\repos\\Raycast\\Raycaster\\Raycast\\renderer.cpp",
               "RelativeToolTip": "Raycast\\renderer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-03T23:33:05.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "renderer.h",
               "DocumentMoniker": "C:\\Users\\Rory\\source\\repos\\Raycast\\Raycaster\\Raycast\\renderer.h",
               "RelativeDocumentMoniker": "Raycast\\renderer.h",
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "player.h",
               "DocumentMoniker": "C:\\Users\\Rory\\source\\repos\\Raycast\\Raycaster\\Raycast\\player.h",
               "RelativeDocumentMoniker": "Raycast\\player.h",
@@ -81,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Rory\\source\\repos\\Raycast\\Raycaster\\Raycast\\Main.cpp",
               "RelativeDocumentMoniker": "Raycast\\Main.cpp",
@@ -126,13 +126,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "player.cpp",
               "DocumentMoniker": "C:\\Users\\Rory\\source\\repos\\Raycast\\Raycaster\\Raycast\\player.cpp",
               "RelativeDocumentMoniker": "Raycast\\player.cpp",
               "ToolTip": "C:\\Users\\Rory\\source\\repos\\Raycast\\Raycaster\\Raycast\\player.cpp",
               "RelativeToolTip": "Raycast\\player.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-01T03:58:43.428Z",
               "EditorCaption": ""
