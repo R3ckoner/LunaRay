@@ -5,10 +5,11 @@
 #include "player.h"
 #include "renderer.h"
 
+
+
 int main()
 {
-    sf::RenderWindow window(sf::VideoMode({ 1200, 675 }), "Raycaster");
-
+    sf::RenderWindow window(sf::VideoMode({ SCREEN_W, SCREEN_H }), "Raycaster", sf::Style::Close | sf::Style::Titlebar);
 
     std::vector<std::vector<int>> grid = {
     {1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1},
@@ -44,9 +45,9 @@ int main()
 		player.update(dt);
 
         window.clear();
-		map.draw(window);
-		renderer.drawRays(window, player, map);
-		player.draw(window);
+		//map.draw(window);
+		renderer.draw3dView(window, player, map);
+		//player.draw(window);
         window.display();
     }
 
